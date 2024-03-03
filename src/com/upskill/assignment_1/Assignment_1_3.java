@@ -8,7 +8,7 @@ public class Assignment_1_3 {
 
 		public static void main(String[] args) {
 
-			int a=9;
+			int a=69;
 			
 			int b=11;
 			
